@@ -14,6 +14,7 @@
     --primary-color:#3f396d;
     --secondary-color:#07003b;
     --accent:#fca61f;
+    --accent2:#f022bd;
     --text-color: #7d7789;
     --off-white-color: #f0f4ff;
     --light-purple-color:#6f34fe;
@@ -42,7 +43,7 @@ p{
     line-height: 33px;
 }
 .contact a{
-    background: var(--accent);
+    background: var(--accent2);
     color: var(--white-color);
     padding: 16px 43px 15px;
     font-size: 20px;

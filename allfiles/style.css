@@ -975,12 +975,12 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     transform: translateY(-8px);
 }
 .footer-social-icon ul li:nth-child(2) a i{
-    color: #f33a7e;
+    color: #000000;
     margin-left: 11px;
     margin-right: 11px;
 }
 .footer-social-icon ul li:nth-child(2) a i:hover{
-    background: #f33a7e;
+    background: #000000;
     color: var(--white-color);
     transform: translateY(-8px);
 }
