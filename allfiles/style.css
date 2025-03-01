@@ -1177,7 +1177,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     }
 
   #button::after {
-    content: "\f062";
+    content: "\2191";
     font-family: "Font Awesome 5 pro";
     font-weight: 300;
     font-size: 26px;
